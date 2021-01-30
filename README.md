@@ -1,1 +1,1 @@
-# Dictionary-of-Docs
+Program uses Hash Table to store words which has linked lists to store the documents they are involved before. When you upload a document(.txt), it analyzes the words in it and store them if it appears first time, if not it updates the linked list the word has for documents by adding the document name at the end of the linked list. So if you want to figure out which words appeared in which documents, you type the word and it lists the documents they are in.
